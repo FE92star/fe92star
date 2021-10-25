@@ -11,4 +11,4 @@ I'm Bob, a software engineer, live in Hangzhou China. Now I am working at visual
 - 🚕  &nbsp; Docker/K8s/Nginx, and some powerful tools
 - 🎿  &nbsp; Coding/Skateboarding/Photography, and other interesting things
 
-Contact me at [Zhihu](https://www.zhihu.com/people/san-huan-mei-you-shao) or [GitHub](https://github.com/fe92star)
+Contact me at [Zhihu](https://www.zhihu.com/people/ge-ge-da-16-28) or [GitHub](https://github.com/fe92star)
