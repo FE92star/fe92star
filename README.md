@@ -4,11 +4,9 @@
 
 
 
-I'm Bob, a software engineer, live in Hangzhou China. Now I am working at visualization rendering and engineer solutions.
+一个杭州的前端小开发攻城狮，对技术有着无限的热爱和有限的自驱力🤦‍♂️，希望自己在这条路上能走出不一样的路线，成为那个最想成为的自己⛽️！
 
 - 🎁  &nbsp; JavaScript/TypeScript/Vue/React
-- 🛠  &nbsp; Nodejs
-- 🚕  &nbsp; Nginx, and some powerful tools
-- 🎿  &nbsp; Coding/Reading/Writing, and other interesting things
+- 🎿  &nbsp; 喜欢写代码，骑行，听音乐...
 
 Contact me at [Zhihu](https://www.zhihu.com/people/ge-ge-da-16-28) or [GitHub](https://github.com/fe92star)
